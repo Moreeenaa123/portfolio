@@ -28,7 +28,7 @@ body::before {
 
 header {
     background: rgba(30, 15, 46, 0.9);
-    padding: 1.5rem 0;
+    padding: 1rem 0;
     text-align: center;
     position: relative;
     z-index: 10;

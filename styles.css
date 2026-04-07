@@ -24,6 +24,8 @@ body::before {
 .formacion-academica {
     text-align: left;
     align-items: left;
+    font-size: 2.8rem;
+    color: #b388ff;
 }
 
 header {
@@ -130,8 +132,16 @@ h2 {
 
 .card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 12px 30px rgba(179, 136, 255, 0.15);
+    
 }
+
+p{
+       font-size: 2.2rem;
+    color: #b388ff;
+ 
+    gap: 5px;
+}
+
 
 .botones-sociales {
     display: flex;

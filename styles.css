@@ -135,11 +135,17 @@ h2 {
     
 }
 
-p{
-       font-size: 2.2rem;
-    color: #b388ff;
- 
+h3{
+    font-size: 2.2rem;
+    color: #bbbbbb;
     gap: 5px;
+     font-family: monospace;
+}
+p{
+    font-size: 2.2rem;
+    color: #b388ff;
+    gap: 5px;
+     font-family: monospace;
 }
 
 
